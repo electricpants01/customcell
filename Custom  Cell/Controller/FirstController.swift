@@ -17,7 +17,7 @@ class ViewController: UIViewController {
     }
 
     @IBAction func changeName(_ sender: Any) {
-        nameLabel.text = "Your name ISS \(String(describing: textField.text!))"
+        nameLabel.text = "hola christian \(String(describing: textField.text!))"
     }
     
 }
